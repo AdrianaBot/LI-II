@@ -1,5 +1,7 @@
 /*MOOshak (até 12/3/2022)
-C.*/
+C.
+
+Programa que, dados três números inteiros, determina se o maior é um fatorial. Se sim, imprime a palavra FATORIAL. Caso contrário, devolve os mesmos números mas por ordem crescente*/
 
 #include <stdio.h>
 
