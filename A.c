@@ -1,5 +1,7 @@
 //MOOshak (até 5/3/2022)
-//1.
+//Exercício A.
+
+/*Programa que recebe dois números e devolve o quadrado do maior, caso sejam diferentes, ou a palavra IGUAIS, caso sejam iguais*/
 
 #include <stdio.h>
 int main()
