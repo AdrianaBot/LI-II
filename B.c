@@ -1,5 +1,7 @@
 /*MOOshak (até 5/3/2022)
-2.*/
+B.
+
+Programa que determina o volume de um cone, dados a sua altura, raio da base maior e raio da base menor.*/
 
 #include <stdio.h> 
 #include <math.h> 
